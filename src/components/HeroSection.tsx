@@ -49,9 +49,9 @@ export const HeroSection = () => {
         <div className="max-w-4xl mx-auto">
           {/* Main Heading */}
           <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-foreground mb-6 text-balance">
-            Ask. Learn. Sell.{" "}
-            <span className="gradient-primary bg-clip-text text-transparent">
-              Grow.
+            Smart Farming for{" "}
+            <span className="bg-gradient-to-r from-primary to-primary-glow bg-clip-text text-transparent">
+              Tomorrow
             </span>
           </h1>
 
